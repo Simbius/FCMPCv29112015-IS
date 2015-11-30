@@ -1,0 +1,7 @@
+Transaction Type 	LOCAL_TRANSACTION
+DataSource Class 	com.microsoft.sqlserver.jdbc.SQLServerDataSource
+serverName 	localhost
+user 	wmuser
+password 	******
+databaseName 	fcmpc
+portNumber 	1433
